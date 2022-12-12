@@ -2,7 +2,9 @@
 
 ## Wordpress, and My SQL flexible server deployment using Azure portal
 
+
 - [Go to Azure portal](https://portal.azure.com/#home)
+<img src="https://github.com/sanfofana/wordpress_on_Azure/blob/main/Azure%20portal.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 - Search for wordpress in the search panel
 - Enter required informations
 - Select your subscription 
